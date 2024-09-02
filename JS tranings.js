@@ -103,3 +103,26 @@
 //
 // we get a type error here
 
+
+// .................................closure.................................................
+// function x(){
+//     let a = 20
+//     function b (){
+//         console.log(a)
+//     }
+// }
+// x();
+// this is calles closuer
+//
+// defination
+//
+// A function with in a function surrounding by its lexuical enviroment
+// here we see a function y its surrounding with its another function x consolewhat will be happend if we
+// make x a wrape him with a variable like
+//
+// const z = x()
+//
+// now we have have z we can use it anywhere in the code and what idf we add return y before console.log)(a)
+// its bringa whole y function in return and whats we console.log z in later in the code its gives us
+// 20 thats the beauty of function love them, its return value of a in the later if we do like "console.log(z)" in the later code
+
