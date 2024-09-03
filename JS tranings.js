@@ -213,6 +213,27 @@
 // let a = function b (){
 //     console.log(`husnain`
 // }
+// difrence between function statment and function expression
+//
+//
+// we can use  function statments before intilizing like
+//
+// a() here we call function before initilizing
+// function a (){
+//     console.log(`husnain`)
+// }
+// but in function expreesion case we didt
+// a() we can not use function expression like that because we store in diffrent menory cycle like we learn before
+// let a = function (){
+//
+//     console.log(`husnain`)
+// }
+//
+//
+//
+//
+//
+
 // what is anonymoud function
 //
 //
