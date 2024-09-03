@@ -192,4 +192,76 @@
 //     console.log(`husnain`)
 // }
 // solve();
-
+// ....................................Beauty of functions...............................
+//
+// what is function statments?
+//
+//     function declariation also called as function statments
+//
+// for example:
+//
+// function a (){
+//     console.log(`husnain`)
+// }
+// this is function statment aka function declaration
+//
+// what is function expresion
+//
+// declaring function as a let const or var value non as function expression
+//
+//
+// let a = function b (){
+//     console.log(`husnain`
+// }
+// what is anonymoud function
+//
+//
+// function without a name is known as anonymous function
+//
+//
+// function (){
+//         console.log(`husnain`)
+//     }
+//
+// what is named funtion
+//
+// function which has asign a name is known as named functions
+//
+// function a (){
+//     console.log(`husnain`)
+// }
+// diffrence between parameters and arguments
+//
+// function a (para1){
+//     console.log(`husnain`)
+// }
+//
+// a(`husnain`)
+// this is known as parameters and arguments
+// what is first class function
+//
+// function which used as values are known as first class functions
+//
+//     function a (
+//         function b (){
+//
+//         }
+//     ){
+//     console.log(`husnain`)
+//     }
+// so this is called first class function if we want to use   a() anywhere its gives us a whole function there like `function b (){
+//
+//
+//
+// }`
+// this is caleed first class functions
+//
+//
+//     or they are also know as first class citizens
+//
+//     what is arrow function
+//
+// ()=>{
+//     console.log(`husnain`)
+// }
+// this is arrow functions
