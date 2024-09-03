@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="77283e1d-c7f6-42e0-b2f8-a817adbc5041" name="Changes" comment="improvements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS tranings.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS tranings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/js.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +16,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JSX File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,38 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Js Traning.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.js.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.JS tranings.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.links.jsx.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.16.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.16.2&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;/home/husnain/.nvm/versions/node/v20.16.0/bin/node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.start (1).executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/husnain/Desktop/My porfolio/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.grazie.pro&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/snap/webstorm/399/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Js Traning.html.executor": "Run",
+    "JavaScript Debug.js.html.executor": "Run",
+    "Node.js.JS tranings.js.executor": "Run",
+    "Node.js.js.js.executor": "Run",
+    "Node.js.links.jsx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "20.16.0",
+    "javascript.nodejs.core.library.typings.version": "20.16.2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/husnain/.nvm/versions/node/v20.16.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.start (1).executor": "Run",
+    "npm.start.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "/home/husnain/Desktop/My porfolio/node_modules/prettier",
+    "settings.editor.selected.configurable": "reference.settings.grazie.pro",
+    "ts.external.directory.path": "/snap/webstorm/399/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.JS tranings.js">
+  <component name="RunManager" selected="JavaScript Debug.js.html">
     <configuration name="Js Traning.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/My JS/Js Traning.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -86,6 +87,9 @@
       <method v="2" />
     </configuration>
     <configuration name="JS tranings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS tranings.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -99,23 +103,13 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/my-app/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v20.16.0/bin/node" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.JS tranings.js" />
         <item itemvalue="JavaScript Debug.js.html" />
+        <item itemvalue="Node.js.js.js" />
+        <item itemvalue="Node.js.JS tranings.js" />
         <item itemvalue="JavaScript Debug.Js Traning.html" />
         <item itemvalue="npm.start (1)" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +144,7 @@
       <workItem from="1725303779002" duration="1029000" />
       <workItem from="1725309817595" duration="2022000" />
       <workItem from="1725318133566" duration="1441000" />
-      <workItem from="1725383250181" duration="6421000" />
+      <workItem from="1725383250181" duration="7565000" />
     </task>
     <task id="LOCAL-00001" summary="added .idea">
       <option name="closed" value="true" />
@@ -248,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725393739697</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="improvements">
+      <option name="closed" value="true" />
+      <created>1725397275091</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725397275092</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
