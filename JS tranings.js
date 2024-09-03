@@ -286,3 +286,22 @@
 //     console.log(`husnain`)
 // }
 // this is arrow functions
+
+
+// ......................event lisner with closure.........................
+// let count = 0
+// document.getElementById('click').addEventListener(`click`,function xyz() {
+//     console.log('button clicked')
+// })
+//
+//
+// so this is basic of event lisner if we arape this into a function now this called clouse
+
+// function abc (){
+//     document.getElementById('click').addEventListener(`click`,function xyz() {
+//     console.log('button clicked')
+// })
+//
+// }
+//
+// now we can call abc () anywhere we can
