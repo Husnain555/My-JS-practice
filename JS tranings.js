@@ -152,14 +152,44 @@
 // }
 // x(x);
 // console.log('Husnain')
-function solve() {
-    for (var i = 1; i < 50; i++) {
-        function hal (i){
-            setTimeout(()=>{
-                console.log(i)
-            }, i * 1000 )
-        }
-    }hal(i);
-    console.log(`husnain`)
-}
-solve();
+// function solve() {
+//     for (var i = 1; i <= 5; i++) {
+//         function hal (i){
+//             setTimeout(()=>{
+//                 console.log(i)
+//             }, i * 1000 )
+//         }
+//         hal(i);
+//     }
+//
+//
+//     console.log(`husnain`)
+// }
+// solve();
+// function solve() {
+//     for (let i = 0; i <= 50; i++) {
+//         setTimeout(()=>{
+//             console.log(i);
+//         }, i*1000 )
+//     }
+//
+// }
+// solve();
+//
+//
+// console.log(`Husnain`)
+// function solve(x) {
+//     for (let i = 1; i <= 5; i++) {
+//         function hal (){
+//             setTimeout(()=>{
+//                 console.log(x)
+//             }, i * 1000 );
+//
+//         }
+// hal();
+//     }
+//
+//     console.log(`husnain`)
+// }
+// solve();
+
