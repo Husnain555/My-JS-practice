@@ -125,4 +125,41 @@
 // now we have have z we can use it anywhere in the code and what idf we add return y before console.log)(a)
 // its bringa whole y function in return and whats we console.log z in later in the code its gives us
 // 20 thats the beauty of function love them, its return value of a in the later if we do like "console.log(z)" in the later code
-
+// itrs like some past memories like our buddy "z" having past memories of his parents and somthing like grand parents hahahahaha
+// .....................................Clouser + set time out.................................................
+//
+// function app () {
+//     function apps() {
+//         for (let i = 1; i <= 5; i++) {
+//             setTimeout(() => {
+//                 console.log(1)
+//
+//             }, i * 1000)
+//
+//         }
+//
+//     }
+// }
+//  function x (){
+//      for (var i = 0; i <= 5; i++) {
+//
+//    function y (){
+//            setTimeout(()=>{
+//                console.log(m)
+//            }, i*1000)
+//        }
+//    } y();
+// }
+// x(x);
+// console.log('Husnain')
+function solve() {
+    for (var i = 1; i < 50; i++) {
+        function hal (i){
+            setTimeout(()=>{
+                console.log(i)
+            }, i * 1000 )
+        }
+    }hal(i);
+    console.log(`husnain`)
+}
+solve();
